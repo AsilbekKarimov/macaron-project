@@ -8,8 +8,8 @@ function App() {
 
   return (
     <>
-      adsdadsada
-    </>
+      Main
+    </>git 
   )
 }
 
